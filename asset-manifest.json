@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jalajdorai/corona-tracker/static/css/main.efc4b8b4.chunk.css",
+    "main.js": "/jalajdorai/corona-tracker/static/js/main.86b82c6d.chunk.js",
+    "main.js.map": "/jalajdorai/corona-tracker/static/js/main.86b82c6d.chunk.js.map",
+    "runtime-main.js": "/jalajdorai/corona-tracker/static/js/runtime-main.0bbed53e.js",
+    "runtime-main.js.map": "/jalajdorai/corona-tracker/static/js/runtime-main.0bbed53e.js.map",
+    "static/js/2.88516caf.chunk.js": "/jalajdorai/corona-tracker/static/js/2.88516caf.chunk.js",
+    "static/js/2.88516caf.chunk.js.map": "/jalajdorai/corona-tracker/static/js/2.88516caf.chunk.js.map",
+    "index.html": "/jalajdorai/corona-tracker/index.html",
+    "precache-manifest.f2b73d8f84d87039c06f95f1d1d56303.js": "/jalajdorai/corona-tracker/precache-manifest.f2b73d8f84d87039c06f95f1d1d56303.js",
+    "service-worker.js": "/jalajdorai/corona-tracker/service-worker.js",
+    "static/css/main.efc4b8b4.chunk.css.map": "/jalajdorai/corona-tracker/static/css/main.efc4b8b4.chunk.css.map",
+    "static/js/2.88516caf.chunk.js.LICENSE.txt": "/jalajdorai/corona-tracker/static/js/2.88516caf.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/jalajdorai/corona-tracker/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bbed53e.js",
+    "static/js/2.88516caf.chunk.js",
+    "static/css/main.efc4b8b4.chunk.css",
+    "static/js/main.86b82c6d.chunk.js"
+  ]
+}
